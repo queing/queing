@@ -1,2 +1,2 @@
-# queing
-Queing
+# Queing
+Open source queue server
